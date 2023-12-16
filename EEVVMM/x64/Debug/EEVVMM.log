@@ -1,0 +1,4 @@
+﻿  EEVVMM.cpp
+C:\Users\User\Documents\Labs\EVMM\EEVVMM\EEVVMM.cpp(10,8): warning C4305: =: усечение из "double" в "float"
+C:\Users\User\Documents\Labs\EVMM\EEVVMM\EEVVMM.cpp(227,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  EEVVMM.vcxproj -> C:\Users\User\Documents\Labs\EVMM\EEVVMM\x64\Debug\EEVVMM.exe
